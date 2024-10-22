@@ -1,13 +1,11 @@
 # +
 # Required Libraries
-import folium
 import numpy as np
 import pandas as pd
 import geopandas as gpd
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
-from folium.plugins import HeatMap
 from datetime import datetime
 
 from streamlit_folium import folium_static
