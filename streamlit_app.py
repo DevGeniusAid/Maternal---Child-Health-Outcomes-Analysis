@@ -7,7 +7,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 
-from streamlit_folium import folium_static
 from plotly.offline import init_notebook_mode
 init_notebook_mode(connected=True)
 
