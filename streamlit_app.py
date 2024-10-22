@@ -221,6 +221,6 @@ if st.sidebar.checkbox("Show Raw Data", False):
     st.write(filtered_df.head(100))
 # -
 
-# !streamlit run streamlit.py
+# !streamlit run streamlit_app.py
 
 
